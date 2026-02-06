@@ -21,7 +21,7 @@ This project builds an NLP-based language detection model that automatically ide
 7.	Real-time language prediction
 # Results
 The model achieves reliable accuracy in identifying languages from multilingual text data, making it suitable for real-world NLP applications.
-
+# Code Implementation
 ![image alt](https://github.com/the-shreya-khandare/LANGUAGE_IDENTIFICATION_ML_PROJECT/blob/main/ML_Project.png?raw=true)
-
+# Model Output
 ![image alt](https://github.com/the-shreya-khandare/LANGUAGE_IDENTIFICATION_ML_PROJECT/blob/main/Project_Output.png?raw=true)
